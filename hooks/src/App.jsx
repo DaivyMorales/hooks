@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Esto es una prueba usando Git</h1>
+      <h1>Hola GIT!</h1>
     </div>
   );
 }
